@@ -1,5 +1,5 @@
 # 360 VR Image viewer based on WebVR with headtracking
-360 VR Image viewer based on WebVR with headtracking movement, tested with Google Cardboard and Oculus Samsung Gear VR. This tool is fixed to keep the center viewport stable for test.
+360 VR Image viewer based on WebVR with headtracking movement, tested with Google Cardboard and Oculus Samsung Gear VR. This tool is fixed to keep the center viewport stable for test. For the software support 360 VR Video, visit here https://github.com/phunm211/Web_VR
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
